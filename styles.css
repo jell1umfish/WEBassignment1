@@ -1,0 +1,83 @@
+.sizetable{
+	text-align: center;
+}
+table, th, td {
+	text-align: center;
+  border: 1px solid black;
+}
+tbody{
+	align-items: center;
+	justify-content: center;
+}
+.center{
+	margin-left: 70px;
+}
+table.sizetable {
+	text-align: center;
+}
+.ss{
+	font-family: arial;
+	background-color: white;
+	border-style: solid;
+	padding: 20px;
+	text-shadow: 2px 2px 9px;
+	border-radius: 10px;
+}
+.catalog{
+	font-family: arial;
+	text-align: center;
+	width:80%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 500px;
+}
+img.hoodies{
+	float:left;
+}
+.hoodies{
+	background-color: white;
+	border-style:solid;
+	padding: 20px;
+	border-radius: 10px;
+}
+.t-shirts{
+	background-color: white;
+	border-style:solid;
+	padding: 20px;
+	border-radius: 10px;
+}
+  .t-shirts:hover {
+   transform: scale(1.1);
+   transition: .2s ease;
+  }
+  .hoodies:hover {
+   transform: scale(1.1);
+   transition: .2s ease;
+  }
+  .sizetable:hover {
+   transform: scale(1.1);
+   transition: .2s ease;
+  }
+
+div.sticky {
+	font-family: Calibri;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+  border-radius: 10px;
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+.outro{
+    text-align: center;
+}
+.outro ul {
+    padding: 0;
+    list-style: none;
+}
+
+.outro li {
+    margin: 10px 0;
+}
